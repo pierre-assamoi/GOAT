@@ -12,3 +12,7 @@ author: Pierre Assamoi # Add name author (optional)
 Le résultat est magnifique et surtout très fidèle, on y retrouve l’atmosphère de douceur, quasi féerique des productions du studio Ghibli.
 
 ## Une vidéo de Whoispablo, disponible sur Vimeo :
+
+![alt text][logo]
+
+[logo]: https://github.com/pierre-assamoi/GOAT/blob/master/assets/img/miyazakiVid.jpg
