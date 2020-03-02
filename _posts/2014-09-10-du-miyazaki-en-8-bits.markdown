@@ -15,4 +15,4 @@ Le résultat est magnifique et surtout très fidèle, on y retrouve l’atmosph�
 
 ![alt text][logo]
 
-[logo]: https://github.com/pierre-assamoi/GOAT/blob/master/assets/img/miyazakiVid.jpg
+[![logo](https://github.com/pierre-assamoi/GOAT/blob/master/assets/img/miyazakiVid.jpg)](https://player.vimeo.com/video/104063954)
