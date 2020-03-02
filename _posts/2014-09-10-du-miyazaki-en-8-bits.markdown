@@ -13,6 +13,4 @@ Le résultat est magnifique et surtout très fidèle, on y retrouve l’atmosph�
 
 ## Une vidéo de Whoispablo, disponible sur Vimeo :
 
-![alt text][logo]
-
 [![logo](https://github.com/pierre-assamoi/GOAT/blob/master/assets/img/miyazakiVid.jpg)](https://player.vimeo.com/video/104063954)
